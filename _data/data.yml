@@ -73,9 +73,10 @@ experiences:
       time: Aug 2017 - Jul 2018
       company: Lululemon Atheletica
       details: |
-        Provided second level support on Windows 7/10, Mac OS X, Office 365, Exchange, Active directory, Cisco IP phones, VPN
-Deployed software and OS images using SCCM 2012 for PC and Casper cloud for Macs
-Supported over 1400+ users at the head office and at offices in Toronto, New York and other cities using ServiceNow, Skype and Slack
+        Provided second level support on Windows 7/10, Mac OS X, Office 365, Exchange, Active directory,
+        Cisco IP phones, VPN Deployed software and OS images using SCCM 2012 for PC and Casper cloud for
+        Macs Supported over 1400+ users at the head office and at offices in Toronto, New York and other
+        cities using ServiceNow, Skype and Slack
 
           - Bullet point
           - Bullet point
@@ -85,11 +86,11 @@ Supported over 1400+ users at the head office and at offices in Toronto, New Yor
       company: Kit and Ace Designs
       details: |
         Help grew and led a team of four to support all corporate technologies in the head office and 4 other satellite offices globally(400+ users)
-• Managed support tickets in Zendesk to ensure issues are resolved efficiently
-• Installed and supported Office 365, dropbox, desktops/laptops, Cisco VoIP phones and peripherals
-• Deployed and supported corporate mobile phones through Bell and AT&T
-• Created and updated knowledge base documentations for the team and corporate users
-• Maintained asset tracking and inventory for all IT equipment
+        Managed support tickets in Zendesk to ensure issues are resolved efficiently
+        Installed and supported Office 365, dropbox, desktops/laptops, Cisco VoIP phones and peripherals
+        Deployed and supported corporate mobile phones through Bell and AT&T
+        Created and updated knowledge base documentations for the team and corporate users
+        Maintained asset tracking and inventory for all IT equipment
 
           - Bullet point
           - Bullet point
@@ -98,9 +99,7 @@ Supported over 1400+ users at the head office and at offices in Toronto, New Yor
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
 
     assignments:
       - title: Velocity
