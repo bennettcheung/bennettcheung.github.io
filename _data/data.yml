@@ -59,8 +59,6 @@ education:
       details: |
         Full time 10 weeks bootcamp focusing on building iPhone apps using Objective C and Swift. (July 30-Oct 5)
 
-          - Bullet point
-          - Bullet point
 
     - degree: BSc in Business Administratrion and Computing Science
       university: Simon Fraser University
@@ -68,36 +66,53 @@ education:
       details: |
 
 
-          - Bullet point
-          - Bullet point
-
 experiences:
     - role: Desktop support specialist
       time: Aug 2017 - Jul 2018
       company: Lululemon Atheletica
       details: |
-        Provided second level support on Windows 7/10, Mac OS X, Office 365, Exchange, Active directory,
-        Cisco IP phones, VPN Deployed software and OS images using SCCM 2012 for PC and Casper cloud for
-        Macs Supported over 1400+ users at the head office and at offices in Toronto, New York and other
-        cities using ServiceNow, Skype and Slack
-
-          - Bullet point
-          - Bullet point
+          - Provided second level support on Windows 7/10, Mac OS X, Office 365, Exchange, Active directory, Cisco IP phones, VPN
+          - Deployed software and OS images using SCCM 2012 for PC and Casper cloud for Macs
+          - Supported over 1400+ users at North American offices using ServiceNow, Skype and Slack
 
     - role: Corporate technical support lead
       time: Oct 2014 - Apr 2017
       company: Kit and Ace Designs
       details: |
-        Help grew and led a team of four to support all corporate technologies in the head office and 4 other satellite offices globally(400+ users)
-        Managed support tickets in Zendesk to ensure issues are resolved efficiently
-        Installed and supported Office 365, dropbox, desktops/laptops, Cisco VoIP phones and peripherals
-        Deployed and supported corporate mobile phones through Bell and AT&T
-        Created and updated knowledge base documentations for the team and corporate users
-        Maintained asset tracking and inventory for all IT equipment
+          - Help grew and led a team of four to support all corporate technologies in the head office and 4 other satellite offices
+          - Managed support tickets in Zendesk to ensure issues are resolved efficiently
+          - Created and updated knowledge base documentations for the team and corporate users
 
-          - Bullet point
-          - Bullet point
+    - role: Technical support specialist (store support)
+      time: Aug 2012 - Oct 2014
+      company: Lululemon Atheletica
+      details: |
+          - Provided second level and on-call support for 350+ stores worldwide on all Micros POS software, registers, iOS mobile POS devices and peripheral issues
+          - Developed Excel macros, SQL and powershell scripts to consolidate store/user data, daily sales audit and different operation tasks
+          - Set up and maintain 20+ staging and QA lab machines to test software upgrades, patches, scripts and document changes to procedures
 
+    - role: Product support engineer
+      time: Jun 2008 - Jul 2012
+      company: Pacific Amber Technologies
+      details: |
+          - Provided telephone/on-site software and computer support for customers
+          - Developed web based support software using ASP.net
+          - Developed e-commerce import/export/data conversion tools for the point of sale software using C# and Microsoft SQL server
+
+    - role: Intermediate Software Engineer
+      time: Jun 2007 - May 2008
+      company: Bluetide Management
+      details: |
+          - Designed and developed sales analytic and reporting software in Adobe Flex 3.0 and Actionscript 3.0
+          - Utilized the Salesforce.com Apex web services platform SaaS model, Cairngorm framework and common design patterns
+          - Made use of Agile development methodology with a team of four developers
+
+    - role: Intermediate Software Engineer
+      time: Jun 2000 - Jun 2006
+      company: Innovative Interfaces
+      details: |
+          - Been through four full development cycles for the circulation module written in Java from requirements until release to our customers
+          - Took on leadership responsibilities in design meetings and had major influences on designs and architectures of new features
 
 projects:
     title: Projects
@@ -105,9 +120,9 @@ projects:
 
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Speed reading
+        link: "github.com/bennettcheung/SpeedReadingMidtermProject"
+        tagline: "An app to let a user speed read any imported text or pdf files.  Swift, Realm DB, Cocapods, Material "
 
 
 skills:
