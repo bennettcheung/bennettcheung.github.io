@@ -24,14 +24,17 @@ sidebar:
     codewars:
 
     languages:
-      - idiom: English
+      - idiom: Swift
         level: Native
 
-      - idiom:
-        level:
+      - idiom: Objective C
+        level: Native
 
-      - idiom:
-        level:
+      - idiom: Java
+        level: Native
+
+      - idiom: Powershell
+        level: Native
 
     interests:
       - item: Hiking
