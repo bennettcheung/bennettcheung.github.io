@@ -1,0 +1,130 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Bennett Cheung
+    tagline: iOS Developer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: bennettcheung@gmail.com
+    phone: 778-308-9228
+    website:  #do not add http://
+    linkedin: bennettcheung
+    github: bennettcheung
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom:
+        level:
+
+      - idiom:
+        level:
+
+    interests:
+      - item: Hiking
+        link:
+
+      - item:
+        link:
+
+      - item:
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Aspiring app developer currently enrolled in a full time iOS development bootcamp at Lighthouse labs. 8+ years of software development experience.
+
+
+education:
+    - degree: iOS Development Bootcamp
+      university: Lighthouse Labs
+      time: 2018 - 2018
+      details: |
+        Full time 10 weeks bootcamp focusing on building iPhone apps using Objective C and Swift. (July 30-Oct 5)
+
+          - Bullet point
+          - Bullet point
+
+    - degree: BSc in Business Administratrion and Computing Science
+      university: Simon Fraser University
+      time: 1995 - 2000
+      details: |
+
+
+          - Bullet point
+          - Bullet point
+
+experiences:
+    - role: Desktop support specialist
+      time: Aug 2017 - Jul 2018
+      company: Lululemon Atheletica
+      details: |
+        Provided second level support on Windows 7/10, Mac OS X, Office 365, Exchange, Active directory, Cisco IP phones, VPN
+Deployed software and OS images using SCCM 2012 for PC and Casper cloud for Macs
+Supported over 1400+ users at the head office and at offices in Toronto, New York and other cities using ServiceNow, Skype and Slack
+
+          - Bullet point
+          - Bullet point
+
+    - role: Corporate technical support lead
+      time: Oct 2014 - Apr 2017
+      company: Kit and Ace Designs
+      details: |
+        Help grew and led a team of four to support all corporate technologies in the head office and 4 other satellite offices globally(400+ users)
+• Managed support tickets in Zendesk to ensure issues are resolved efficiently
+• Installed and supported Office 365, dropbox, desktops/laptops, Cisco VoIP phones and peripherals
+• Deployed and supported corporate mobile phones through Bell and AT&T
+• Created and updated knowledge base documentations for the team and corporate users
+• Maintained asset tracking and inventory for all IT equipment
+
+          - Bullet point
+          - Bullet point
+
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Swift
+        level: 98%
+
+      - name: Objective C
+        level: 98%
+
+      - name: Java
+        level: 98%
+
+      - name: Powershell
+        level: 95%
+
+
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
