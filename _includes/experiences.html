@@ -15,7 +15,10 @@
   </ul>
   {% for experience in experiences %}
     {% if experience.search %}
-    <div class="item" data-groups='["all", "software"]'>
+      <div class="item" data-groups='["all"]'>
+    {% else %}
+        <div class="item" data-groups='["all", "software"]'>
+    {% endif %}
 
       <div class="meta">
 
