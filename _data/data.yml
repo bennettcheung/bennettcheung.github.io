@@ -27,7 +27,7 @@ sidebar:
       - idiom: Swift
         level: Native
 
-      - idiom: Objective C
+      - idiom: Objective-C
         level: Native
 
       - idiom: Java
@@ -49,7 +49,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Aspiring app developer currently enrolled in a full time iOS development bootcamp at Lighthouse labs. 8+ years of software development experience.
+      An iOS developer currently enrolled in a full time iOS development bootcamp at Lighthouse labs. 8+ years of software development experience.
 
 
 education:
@@ -121,26 +121,22 @@ projects:
 
     assignments:
       - title: Speed reading
-        link: "github.com/bennettcheung/SpeedReadingMidtermProject"
+        link: "https://github.com/bennettcheung/SpeedReadingMidtermProject"
         tagline: "An app to let a user speed read any imported text or pdf files.  Swift, Realm DB, Cocapods, Material "
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Swift
-        level: 98%
+      - name: Programming Languages
+        description: Swift, Objective-C, Powershell, Java
 
-      - name: Objective C
-        level: 98%
+      - name: Databases
+        description: MySQL, Microsoft SQL server, SQLite
 
-      - name: Java
-        level: 98%
-
-      - name: Powershell
-        level: 95%
-
+      - name: Software
+        description: Xcode, Git, Slack
 
 
 footer: >
