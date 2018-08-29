@@ -102,6 +102,7 @@ experiences:
     - role: Intermediate Software Engineer
       time: Jun 2007 - May 2008
       company: Bluetide Management
+      search: Development
       details: |
           - Designed and developed sales analytic and reporting software in Adobe Flex 3.0 and Actionscript 3.0
           - Utilized the Salesforce.com Apex web services platform SaaS model, Cairngorm framework and common design patterns
@@ -110,6 +111,7 @@ experiences:
     - role: Intermediate Software Engineer
       time: Jun 2000 - Jun 2006
       company: Innovative Interfaces
+      search: Development
       details: |
           - Been through four full development cycles for the circulation module written in Java from requirements until release to our customers
           - Took on leadership responsibilities in design meetings and had major influences on designs and architectures of new features
