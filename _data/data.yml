@@ -41,7 +41,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      An iOS developer currently enrolled in a full time iOS development bootcamp at Lighthouse labs. 7+ years of software development experience. Worked in fast paced startups, mid size and large corporations.
+      An iOS developer currently enrolled in a full time iOS development bootcamp at Lighthouse labs. 7+ years of software development experience. Well versed in a variety of operating systems and applications with a proven ability to learn new technologies quickly.
 
 
 education:
@@ -89,10 +89,11 @@ experiences:
     - role: Product support engineer
       time: Jun 2008 - Jul 2012
       company: Pacific Amber Technologies
+      support: true
       details: |
+          - Developed e-commerce import/export/data conversion tools for the point of sale software using C# and Microsoft SQL server
           - Provided telephone/on-site software and computer support for customers
           - Developed web based support software using ASP.net
-          - Developed e-commerce import/export/data conversion tools for the point of sale software using C# and Microsoft SQL server
 
     - role: Software Engineer
       time: Jun 2007 - May 2008
@@ -107,6 +108,7 @@ experiences:
       company: Innovative Interfaces
       details: |
           - Been through four full development cycles for the circulation module written in Java from requirements until release to our customers
+          - Troubleshoot reported production issues and created hot fixes
           - Took on leadership responsibilities in design meetings and had major influences on designs and architectures of new features
 
 projects:
