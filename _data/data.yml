@@ -36,15 +36,7 @@ sidebar:
       - idiom: Powershell
         level: Native
 
-    interests:
-      - item: Hiking
-        link:
 
-      - item:
-        link:
-
-      - item:
-        link:
 
 career-profile:
     title: Career Profile
@@ -55,7 +47,7 @@ career-profile:
 education:
     - degree: iOS Development Bootcamp
       university: Lighthouse Labs
-      time: 2018 - 2018
+      time: Aug 2018 - Oct 2018
       details: |
         Full time 10 weeks bootcamp focusing on building iPhone apps using Objective C and Swift. (July 30-Oct 5)
 

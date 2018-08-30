@@ -18,10 +18,14 @@ jQuery(document).ready(function($) {
     });
 
     $("#allExp").click(function(){
-            $(".support").slideDown();
+        $(".support").slideDown();
+        $('#softwareExp').removeClass('active');
+        $("#allExp").addClass('active');
         });
     $("#softwareExp").click(function(){
         $(".support").slideUp();
+        $('#allExp').removeClass('active');
+        $("#softwareExp").addClass('active');
     });
 
 });
