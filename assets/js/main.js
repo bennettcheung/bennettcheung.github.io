@@ -1,6 +1,7 @@
 jQuery(document).ready(function($) {
 
     $('.level-bar-inner').css('width', '0');
+    $(".support").hide();
 
     $(window).on('load', function() {
 
