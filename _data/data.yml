@@ -39,7 +39,7 @@ sidebar:
     interests:
       - item: Hiking
         link:
-       - item: Yoga
+      - item: Yoga
         link:
 
 
@@ -60,7 +60,8 @@ education:
     - degree: BSc in Business Administratrion and Computing Science
       university: Simon Fraser University
       time: 1995 - 2000
-      details: | Software Engineering Speicialist program, 4 co-op semesters at 3 different companies
+      details: |
+        Software Engineering Speicialist program, 4 co-op semesters at 3 different companies
 
 
 experiences:
@@ -70,14 +71,12 @@ experiences:
       support: true
       details: |
           -
-          -
 
     - role: Corporate technical support lead
       time: Oct 2014 - Apr 2017
       company: Kit and Ace Designs
       support: true
       details: |
-          -
           -
 
     - role: Technical support specialist (store support)
