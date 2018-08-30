@@ -70,6 +70,7 @@ experiences:
     - role: Desktop support specialist
       time: Aug 2017 - Jul 2018
       company: Lululemon Atheletica
+      support: true
       details: |
           - Provided second level support on Windows 7/10, Mac OS X, Office 365, Exchange, Active directory, Cisco IP phones, VPN
           - Deployed software and OS images using SCCM 2012 for PC and Casper cloud for Macs
@@ -78,6 +79,7 @@ experiences:
     - role: Corporate technical support lead
       time: Oct 2014 - Apr 2017
       company: Kit and Ace Designs
+      support: true
       details: |
           - Help grew and led a team of four to support all corporate technologies in the head office and 4 other satellite offices
           - Managed support tickets in Zendesk to ensure issues are resolved efficiently
@@ -86,6 +88,7 @@ experiences:
     - role: Technical support specialist (store support)
       time: Aug 2012 - Oct 2014
       company: Lululemon Atheletica
+      support: true
       details: |
           - Provided second level and on-call support for 350+ stores worldwide on all Micros POS software, registers, iOS mobile POS devices and peripheral issues
           - Developed Excel macros, SQL and powershell scripts to consolidate store/user data, daily sales audit and different operation tasks
@@ -102,7 +105,6 @@ experiences:
     - role: Software Engineer
       time: Jun 2007 - May 2008
       company: Bluetide Management
-      search: Development
       details: |
           - Designed and developed sales analytic and reporting software in Adobe Flex 3.0 and Actionscript 3.0
           - Utilized the Salesforce.com Apex web services platform SaaS model, Cairngorm framework and common design patterns
@@ -111,7 +113,6 @@ experiences:
     - role: Software Engineer
       time: Jun 2000 - Jun 2006
       company: Innovative Interfaces
-      search: Development
       details: |
           - Been through four full development cycles for the circulation module written in Java from requirements until release to our customers
           - Took on leadership responsibilities in design meetings and had major influences on designs and architectures of new features

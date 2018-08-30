@@ -10,16 +10,15 @@
   </h2>
 
     <ul class="list-inline" id="filter">
-      <li><a data-group="all">All</a></li>
-      <li><a class="active" data-group="software">Software</a></li>
-      <li><a data-group="support">Support</a></li>
+      <li><a id="allExp">All</a></li>
+      <li><a id="softwareExp">Software</a></li>
   </ul>
   <div id="grid">
   {% for experience in experiences %}
-    {% if experience.search %}
-      <div class="item" data-groups='["all"]'>
+    {% if experience.support %}
+      <div class="support" >
     {% else %}
-        <div class="item" data-groups='["all", "software"]'>
+        <div class="software" >
     {% endif %}
 
       <div class="meta">
