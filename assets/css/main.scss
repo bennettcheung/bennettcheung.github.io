@@ -14,7 +14,7 @@
 
 
 #filter li a {
-    color: #68c3a3;
+    color: #42A8C0;
     display: block;
     text-transform: uppercase;
     padding: 0 15px;
@@ -24,7 +24,7 @@
 #filter li a.active,
 #filter li a:hover {
     position: relative;
-    background: #68c3a3;
+    background: #42A8C0;
     color: #fff;
     border-bottom: 3px solid rgba(0, 0, 0, 0.15);
 }
@@ -37,7 +37,7 @@
     height: 0;
     border-left: 8px solid transparent;
     border-right: 8px solid transparent;
-    border-top: 10px solid rgba(104, 195, 163, 1);
+    border-top: 10px solid rgb(104, 181, 195);
     bottom: -9px;
     left: 50%;
     margin-left: -8px;
