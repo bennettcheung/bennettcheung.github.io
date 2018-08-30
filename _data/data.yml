@@ -24,22 +24,24 @@ sidebar:
     codewars:
 
     languages:
-      - idiom: Swift
+      - idiom: English
         level: Native
 
-      - idiom: Objective-C
+      - idiom: Chinese
         level: Native
 
-      - idiom: Java
-        level: Native
+      - idiom: French
+        level: Basic
 
-      - idiom: Powershell
-        level: Native
+      - idiom: Japanese
+        level: Basic
 
     interests:
       - item: Hiking
         link:
       - item: Yoga
+        link:
+      - item: Traveling
         link:
 
 
@@ -69,15 +71,13 @@ experiences:
       time: Aug 2017 - Jul 2018
       company: Lululemon Atheletica
       support: true
-      details: |
-          -
+
 
     - role: Corporate technical support lead
       time: Oct 2014 - Apr 2017
       company: Kit and Ace Designs
       support: true
-      details: |
-          -
+
 
     - role: Technical support specialist (store support)
       time: Aug 2012 - Oct 2014
