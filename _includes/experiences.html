@@ -12,7 +12,9 @@
     <ul class="list-inline" id="filter">
       <li><a data-group="all">All</a></li>
       <li><a class="active" data-group="software">Software</a></li>
+      <li><a data-group="support">Support</a></li>
   </ul>
+  <div id="grid">
   {% for experience in experiences %}
     {% if experience.search %}
       <div class="item" data-groups='["all"]'>
@@ -39,6 +41,7 @@
 
     </div><!--//item-->
   {% endfor %}
+  </div>
 
 </section><!--//section-->
 {% endif %}
