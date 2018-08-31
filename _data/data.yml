@@ -48,7 +48,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      An iOS developer currently enrolled in a full time iOS development bootcamp at Lighthouse labs. 7+ years of software development experience. Well versed in a variety of operating systems and applications with a proven ability to learn new technologies quickly.
+      An iOS developer with a computing science degree and 7+ years of software development experience. Solutions oriented leader with a proven ability to learn new technologies quickly. Worked in multiple start ups and successful large corporations.
 
 
 education:
@@ -71,12 +71,20 @@ experiences:
       time: Aug 2017 - Jul 2018
       company: Lululemon Atheletica
       support: true
+      details: |
+          - Provided second level support on Windows 7/10, Mac OS X, Office 365, Exchange, Active directory, Cisco IP phones, VPN
+          - Deployed software and OS images using SCCM 2012 for PC and Casper cloud for Macs
+          - Supported over 1400+ users at North American offices using ServiceNow, Skype and Slack
 
 
     - role: Corporate technical support lead
       time: Oct 2014 - Apr 2017
       company: Kit and Ace Designs
       support: true
+      details: |
+          - Help grew and led a team of four to support all corporate technologies in the head office and 4 other satellite offices
+          - Managed support tickets in Zendesk to ensure issues are resolved efficiently
+          - Created and updated knowledge base documentations for the team and corporate users
 
 
     - role: Technical support specialist (store support)
@@ -118,7 +126,7 @@ projects:
 
 
     assignments:
-      - title: Speed reading
+      - title: Speed reading (Midterm project)
         link: "https://github.com/bennettcheung/SpeedReadingMidtermProject"
         tagline: "An app to let a user speed read any imported text or pdf files.  Swift, Realm DB, Cocapods, Material "
 
@@ -128,13 +136,13 @@ skills:
 
     toolset:
       - name: Programming Languages
-        description: Swift, Objective-C, Powershell, Java
+        description: Swift, Objective-C, Powershell, Java, C#, C
 
       - name: Databases
         description: MySQL, Microsoft SQL server, SQLite
 
       - name: Software
-        description: Xcode, Git, Slack
+        description: Xcode, Git, Slack, Servicenow, Trello, Office 365/Azure Admin portal
 
 
 footer: >
