@@ -8,14 +8,12 @@
     </span>
     Experiences
   </h2>
-  <div class="container">
-    <div class="row">
-      <ul class="list-inline" id="filter">
-        <li><a id="allExp">ALL</a></li>
-        <li><a id="softwareExp" class="active">DEV</a></li>
-      </ul>
-    </div>
-  </div>
+
+  <ul class="list-inline" id="filter">
+    <li><a id="allExp">ALL</a></li>
+    <li><a id="softwareExp" class="active">DEV</a></li>
+  </ul>
+
   <div id="grid">
   {% for experience in experiences %}
     {% if experience.support %}
