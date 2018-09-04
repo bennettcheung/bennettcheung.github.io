@@ -52,13 +52,13 @@ career-profile:
 
 
 education:
-    - degree: <a href="https://www.lighthouselabs.ca/ios-bootcamp#curriculum" >iOS Development Bootcamp</a>
+    - degree: <a href="https://www.lighthouselabs.ca/ios-bootcamp#curriculum" target="_blank">iOS Development Bootcamp</a>
       university: Lighthouse Labs
       time: Aug 2018 - Oct 2018
       details: |
         Full time 10 weeks bootcamp focusing on building iPhone apps using Objective C and Swift. (July 30-Oct 5)
 
-    - degree: <a href="https://www.agile42.com/en/training/scrum-agile-trainings/" >Agile team training</a>
+    - degree: <a href="https://www.agile42.com/en/training/scrum-agile-trainings/" target="_blank">Agile team training</a>
       university: Agile 42
       time: Feb 2017
       details: |
