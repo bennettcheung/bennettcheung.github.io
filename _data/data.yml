@@ -104,7 +104,7 @@ experiences:
       time: Jun 2008 - Jul 2012
       company: Pacific Amber Technologies
       details: |
-          - Developed e-commerce import/export/data conversion tools for the point of sale software using <b>C#</b> and Microsoft SQL server
+          - Developed e-commerce import/export/data conversion tools for the point of sale software using <b>C#</b> and <b>Microsoft SQL server</b>
           - Provided telephone/on-site software and computer support for customers
           - Developed web based support software using ASP.net
 
@@ -112,8 +112,8 @@ experiences:
       time: Jun 2007 - May 2008
       company: Bluetide Management
       details: |
-          - Designed and developed sales analytic and reporting software in Adobe Flex 3.0 and Actionscript 3.0
-          - Utilized the Salesforce.com Apex web services platform SaaS model, Cairngorm framework and common design patterns
+          - Designed and developed sales analytic and reporting software in <b>Adobe Flex 3.0</b> and <b>Actionscript 3.0</b>
+          - Utilized the <b>Salesforce</b> Apex web services platform SaaS model, Cairngorm framework and common design patterns
           - Made use of Agile development methodology with a team of four developers
 
     - role: Software Engineer
@@ -132,7 +132,7 @@ projects:
     assignments:
       - title: Speed reading (Midterm project)
         link: "https://github.com/bennettcheung/SpeedReadingMidtermProject"
-        tagline: "An app to allow anyone to speed read any imported text or pdf files.  It allows the user to adjust reading speed and bookmark the position in the reading.  I collaborated with another classmate to design and implement this app.  <b>Tech stack: Swift, Realm DB, Cocapods, Material </b> "
+        tagline: "An app to allow anyone to speed read any imported text or pdf files.  It allows the user to adjust reading speed and bookmark the position in the reading.  I collaborated with another classmate to design and implement this app.  <br><b>Tech stack: Swift, Realm DB, Cocapods, Material </b> "
 
 
 skills:
