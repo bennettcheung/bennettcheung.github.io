@@ -82,7 +82,7 @@ p {
     .contact-list {
         .fas, .fab {
             margin-right: 5px;
-            font-size: 22px;
+            font-size: 24px;
             vertical-align: middle;
         }
         li {
@@ -115,13 +115,13 @@ p {
             }
         }
         .meta {
-            color: rgba(256, 256, 256, 0.6);
+            color: rgba(256, 256, 256, 1);
             font-weight: 500;
             margin-bottom: 0px;
             margin-top: 0;
         }
         .time {
-            color: rgba(256, 256, 256, 0.6);
+            color: rgba(256, 256, 256, 1);
             font-weight: 500;
             margin-bottom: 0px;
         }
@@ -195,7 +195,7 @@ p {
     }
     .company, .university {
         margin-bottom: 10px;
-        color: $text-grey;
+        color: $theme-color;
     }
 
     .project-title {
