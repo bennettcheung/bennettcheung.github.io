@@ -115,13 +115,13 @@ p {
             }
         }
         .meta {
-            color: rgba(256, 256, 256, 1);
+            color: rgba(256, 256, 256, 0.9);
             font-weight: 500;
             margin-bottom: 0px;
             margin-top: 0;
         }
         .time {
-            color: rgba(256, 256, 256, 1);
+            color: rgba(256, 256, 256, 0.9);
             font-weight: 500;
             margin-bottom: 0px;
         }
@@ -181,7 +181,7 @@ p {
         margin-bottom: 2px;
     }
     .job-title, .degree {
-        color: $text-color;
+        color: darken($theme-color, 15%);
         font-size: 16px;
         margin-top: 0;
         margin-bottom: 0;
@@ -191,7 +191,7 @@ p {
         position: absolute;
         right: 0;
         top: 0;
-        color: $text-grey;
+        color: $theme-color;
     }
     .company, .university {
         margin-bottom: 10px;
