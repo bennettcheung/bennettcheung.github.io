@@ -132,8 +132,7 @@ projects:
       - title: AR Mini Golf (Final project)
         link: "https://github.com/bennettcheung/ARMiniGolf"
         tagline: "A mini golf game with beautiful graphics and music in AR.  It is a fun way to get up and move around to take a break from sitting. I collaborated with another classmate to design and implement this app.  <br><b>Tech stack: Swift, ARKit, SceneKit </b> "
-
-    assignments:
+        
       - title: Speed reading (Midterm project)
         link: "https://github.com/bennettcheung/SpeedReadingMidtermProject"
         tagline: "An app to allow anyone to speed read any imported text or pdf files.  It allows the user to adjust reading speed and bookmark the position in the reading.  I collaborated with another classmate to design and implement this app.  <br><b>Tech stack: Swift, Realm DB, Cocapods, Material </b> "
